@@ -1,3 +1,3 @@
 message = "Hello, World"
 name = "Ally"
-print message
+print "Hello %s" % (name)
